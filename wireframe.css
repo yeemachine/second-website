@@ -144,3 +144,20 @@ span{
 span:hover{
   color:rgba(0,0,0,0)
 }
+
+@media all and (width:400px){
+  body{
+    background-image: url(http://i.imgur.com/I8TTu.jpg);
+    background-repeat:no-repeat;
+      background-color:white;
+    color:green;
+  }
+  h1{
+    padding:50px;
+    padding-top: 75px;
+    padding-left: 75px;
+    padding-bottom: 250px;
+    font-size: 20px;
+    color:white;
+    font-family:garamond,serif;
+}
