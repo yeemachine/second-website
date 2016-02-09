@@ -141,3 +141,6 @@ h1:hover{
 span{
   color:red
 }
+span:hover{
+  color:rgba(0,0,0,0)
+}
